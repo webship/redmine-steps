@@ -1,6 +1,6 @@
 {
   "name": "@webship-js/redmine-steps",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Cucumber step definitions for Redmine, the open-source project management and issue tracking software, a pack for webship-js (Playwright and Cucumber): logging in and out and its refusals, a project and who may see it, the issue list, one issue (its status through the workflow, its notes, the time spent on it, its assignee), a new issue, and the roadmap with its versions. Test content is made and removed through the site's own REST API, so a run leaves the site as it found it.",
   "main": "tests/step-definitions/redmine-helpers.js",
   "files": [
